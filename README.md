@@ -65,7 +65,6 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
-For more details, refer to [docs/requirements.md](docs/requirements.md).
 
 ## 📂 Repository Structure
 ```
@@ -132,14 +131,11 @@ My focus is on data informed products and scalable analytical workflows.
 
 ## Connect
 
-Portfolio  
-https://saswataghosh.vercel.app  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+(https://linkedin.com/in/saswata-ghosh06)  
 
-LinkedIn  
-https://linkedin.com/in/saswata-ghosh06  
-
-GitHub  
-https://github.com/Saswataghosh06  
+Github
+https://github.com/Saswataghosh06 
 
 Email  
 saswataghosh2022@gmail.com  
